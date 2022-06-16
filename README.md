@@ -41,5 +41,5 @@ For future projects, I would like to focus on responsive web design in order to 
 ## Author
 
 - Frontend Mentor - [@MReyna12](https://www.frontendmentor.io/profile/MReyna12)
-- Twitter - [@Fraktionn](https://twitter.com/Fraktionn)
+- Twitter - [@michaelpreyna](https://twitter.com/michaelpreyna)
 - LinkedIn - [@michaelpreyna](https://www.linkedin.com/in/michaelpreyna/)
